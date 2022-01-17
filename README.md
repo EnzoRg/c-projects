@@ -1,9 +1,7 @@
 # C Projects 💻
 
 #### Raspberry 
-- Codes to test GPIO of a Raspberry Pi 3B+ with a hat that contains: switch, LED, potenciometer, LDR and ADC
-
-
+- Codes to test GPIO of a Raspberry Pi 3B+ with a hat that contains: switch, LED, potentiometer, LDR and ADC
 
 #### Conical Calculator
 - Code to calculate conicals 
@@ -11,5 +9,3 @@
 gcc conicas.c -o Conicas 
 ./Conicas
 ```
-
-
