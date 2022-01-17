@@ -1,4 +1,4 @@
 # C Projects 💻
 
 #### Raspberry 
-- Develope 
+- Codes to test GPIO of a Raspberry Pi 3B+
